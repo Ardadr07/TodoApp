@@ -1,4 +1,4 @@
-# 👨‍💻 Öğrenci No: 220404013 – Arda Adar
+# Öğrenci No: 220404013 – Arda Adar
 
 ## Mobil Programlama – Lab 7  
 **Konu:** React Native Lab 2 – İnteraktif Yapılacaklar Listesi  
